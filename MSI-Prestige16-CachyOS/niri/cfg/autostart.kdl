@@ -1,0 +1,25 @@
+// ────────────── Startup Applications ──────────────
+// https://github.com/YaLTeR/niri/wiki/Configuration:-Miscellaneous#spawn-sh-at-startup
+
+spawn-sh-at-startup "qs -c noctalia-shell"
+spawn-at-startup "clash-verge"
+spawn-at-startup "fcitx5"
+spawn-sh-at-startup "bytedance-feishu-stable --ozone-platform-hint=auto --enable-features=WaylandWindowDecorations"
+spawn-at-startup "ferdium"
+spawn-at-startup "thunderbird"
+spawn-at-startup "wl-paste --watch cliphist store"
+spawn-at-startup "mcontrolcenter"
+spawn-at-startup "jetbrains-toolbox"
+spawn-sh-at-startup "/opt/wechat/wechat --ozone-platform-hint=auto --enable-features=WaylandWindowDecorations"
+spawn-sh-at-startup "opencode serve"
+spawn-sh-at-startup "openchamber -p 1145"
+
+environment {
+    MOZ_ENABLE_WAYLAND "1"  // Ensure Firefox Developer Edition uses Wayland
+    QT_QPA_PLATFORM "wayland"
+    // Input method support
+    GTK_IM_MODULE "fcitx"
+    QT_IM_MODULE "fcitx"
+    XMODIFIERS "@im=fcitx"
+}
+
