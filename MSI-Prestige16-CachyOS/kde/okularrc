@@ -1,0 +1,28 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[Recent Files]
+File1[$e]=$HOME/Documents/26SU/Downloads/311/Lecture Notes/ECE3110J_Lecture4_Diode_Circuits.pdf
+File10[$e]=$HOME/Documents/26SU/4721/hadoop-cluster-proof.md
+File2[$e]=trash:/0-Lecture Notes (1)/ECE3110J_Lecture3_Diode.pdf
+File3[$e]=trash:/0-Lecture Notes (1)/ECE3110J_Lecture5_Rectifiers.pdf
+File4[$e]=$HOME/Documents/26SU/Downloads/311/Homework Solutions/ECE3110J_HW1_SU26_Solution.pdf
+File5[$e]=$HOME/Documents/26SU/4721/projects/p1.pdf
+File6[$e]=$HOME/Documents/26SU/4721/labs/l2.pdf
+File7[$e]=$HOME/Documents/26SU/Downloads/311/Lab1/ECE3110J Lab 1 In-lab Demo.pdf
+File8[$e]=$HOME/Documents/26SU/Downloads/311/Labs/ECE3110J_Lab1Manual_26SU.pdf
+File9[$e]=$HOME/Tools/Wechat_Files/xwechat_files/wxid_5rh2tq2oshsy22_c783/msg/file/2026-05/ECE3110_Lab_1_Report.pdf
+Name1[$e]=ECE3110J_Lecture4_Diode_Circuits.pdf
+Name10[$e]=hadoop-cluster-proof.md
+Name2[$e]=ECE3110J_Lecture3_Diode.pdf
+Name3[$e]=ECE3110J_Lecture5_Rectifiers.pdf
+Name4[$e]=ECE3110J_HW1_SU26_Solution.pdf
+Name5[$e]=p1.pdf
+Name6[$e]=l2.pdf
+Name7[$e]=ECE3110J Lab 1 In-lab Demo.pdf
+Name8[$e]=ECE3110J_Lab1Manual_26SU.pdf
+Name9[$e]=ECE3110_Lab_1_Report.pdf
