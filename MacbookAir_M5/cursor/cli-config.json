@@ -1,0 +1,62 @@
+{
+  "permissions": {
+    "allow": [
+      "Shell(ls)"
+    ],
+    "deny": []
+  },
+  "version": 1,
+  "editor": {
+    "vimMode": false
+  },
+  "notifications": true,
+  "hints": true,
+  "rewind": false,
+  "suggestNextPrompt": false,
+  "model": {
+    "modelId": "composer-2.5",
+    "displayModelId": "composer-2.5",
+    "displayName": "Composer 2.5",
+    "displayNameShort": "Composer 2.5",
+    "aliases": [],
+    "maxMode": false
+  },
+  "hasChangedDefaultModel": true,
+  "maxMode": false,
+  "modelParameters": {
+    "composer-2.5": [
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ],
+    "gpt-5.4-nano": [
+      {
+        "id": "reasoning",
+        "value": "medium"
+      }
+    ]
+  },
+  "selectedModel": {
+    "modelId": "composer-2.5",
+    "parameters": [
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "network": {
+    "useHttp1ForAgent": false
+  },
+  "approvalMode": "allowlist",
+  "sandbox": {
+    "mode": "disabled",
+    "networkAccess": "user_config_with_defaults"
+  },
+  "runEverythingSettingsPromptStreak": 2,
+  "attribution": {
+    "attributeCommitsToAgent": true,
+    "attributePRsToAgent": true
+  }
+}

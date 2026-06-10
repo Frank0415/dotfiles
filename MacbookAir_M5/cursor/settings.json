@@ -1,0 +1,5 @@
+{
+    "window.autoDetectColorScheme": true,
+    "workbench.preferredDarkColorTheme": "Nord Deep",
+    "cursor.cpp.enablePartialAccepts": true
+}
